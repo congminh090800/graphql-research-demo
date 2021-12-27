@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "classId": 1,
+        "name": "Acc asklj alsk",
+        "email": "alsj@adla.ssa",
+        "password": "12345"
+    },
+    {
+        "id": 2,
+        "classId": 1,
+        "name": "hnim laskdja as",
+        "email": "12312n@l1kjs.cc",
+        "password": "654321"
+    },
+    {
+        "id": 3,
+        "classId": 2,
+        "name": "Le Phan Cong Minh",
+        "email": "congminh090800@gmail.com",
+        "password": "alkjdsalk"
+    },
+    {
+        "id": 77374,
+        "classId": 1,
+        "name": "Francis Butler",
+        "email": "francisbutler@kyaguru.com",
+        "password": "anim"
+    },
+    {
+        "id": 83430,
+        "classId": 1,
+        "name": "Parker Atkinson",
+        "email": "parkeratkinson@kyaguru.com",
+        "password": "ad"
+    },
+    {
+        "id": 21193,
+        "classId": 1,
+        "name": "Oconnor Hill",
+        "email": "oconnorhill@kyaguru.com",
+        "password": "consequat"
+    },
+    {
+        "id": 22005,
+        "classId": 2,
+        "name": "Greer Franks",
+        "email": "greerfranks@kyaguru.com",
+        "password": "do"
+    },
+    {
+        "id": 63530,
+        "classId": 2,
+        "name": "Bishop Navarro",
+        "email": "bishopnavarro@kyaguru.com",
+        "password": "elit"
+    },
+    {
+        "id": 3950,
+        "classId": 2,
+        "name": "Jannie Harris",
+        "email": "jannieharris@kyaguru.com",
+        "password": "amet"
+    },
+    {
+        "id": 865,
+        "classId": 1,
+        "name": "Janette Burt",
+        "email": "janetteburt@kyaguru.com",
+        "password": "laboris"
+    },
+    {
+        "id": 17340,
+        "classId": 1,
+        "name": "Torres Baker",
+        "email": "torresbaker@kyaguru.com",
+        "password": "nisi"
+    },
+    {
+        "id": 75646,
+        "classId": 1,
+        "name": "Terrie Le",
+        "email": "terriele@kyaguru.com",
+        "password": "quis"
+    },
+    {
+        "id": 70748,
+        "classId": 2,
+        "name": "Peggy Olson",
+        "email": "peggyolson@kyaguru.com",
+        "password": "labore"
+    },
+    {
+        "id": 50351,
+        "classId": 2,
+        "name": "Leann Patton",
+        "email": "leannpatton@kyaguru.com",
+        "password": "culpa"
+    },
+    {
+        "id": 17094,
+        "classId": 1,
+        "name": "Rodriquez Lambert",
+        "email": "rodriquezlambert@kyaguru.com",
+        "password": "consequat"
+    },
+    {
+        "id": 67399,
+        "classId": 2,
+        "name": "Merrill Lynn",
+        "email": "merrilllynn@kyaguru.com",
+        "password": "eu"
+    },
+    {
+        "id": 41827,
+        "classId": 1,
+        "name": "Wheeler Irwin",
+        "email": "wheelerirwin@kyaguru.com",
+        "password": "exercitation"
+    },
+    {
+        "id": 60828,
+        "classId": 1,
+        "name": "Jacobs Nash",
+        "email": "jacobsnash@kyaguru.com",
+        "password": "consectetur"
+    },
+    {
+        "id": 38712,
+        "classId": 2,
+        "name": "Best Charles",
+        "email": "bestcharles@kyaguru.com",
+        "password": "aute"
+    },
+    {
+        "id": 79435,
+        "classId": 2,
+        "name": "Bonner Reynolds",
+        "email": "bonnerreynolds@kyaguru.com",
+        "password": "nulla"
+    },
+    {
+        "id": 48651,
+        "classId": 2,
+        "name": "Bolton Stevenson",
+        "email": "boltonstevenson@kyaguru.com",
+        "password": "pariatur"
+    },
+    {
+        "id": 92859,
+        "classId": 1,
+        "name": "Emilia Workman",
+        "email": "emiliaworkman@kyaguru.com",
+        "password": "officia"
+    },
+    {
+        "id": 14117,
+        "classId": 1,
+        "name": "Battle Short",
+        "email": "battleshort@kyaguru.com",
+        "password": "ea"
+    }
+]
